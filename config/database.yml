@@ -15,7 +15,7 @@ development:
   database: Oglasnik_development
   pool: 5
   username: root
-  password: root
+  password: administrator
   host: localhost
 
 # Warning: The database defined as "test" will be erased and
@@ -28,7 +28,7 @@ test:
   database: Oglasnik_test
   pool: 5
   username: root
-  password: root
+  password: administrator
   host: localhost
 
 production:
@@ -38,5 +38,5 @@ production:
   database: Oglasnik_production
   pool: 5
   username: root
-  password: root
+  password: administrator
   host: localhost
