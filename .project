@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Oglasnik</name>
+=======
+	<name>InternetOglasi</name>
+>>>>>>> 57e36b6ec3e302eb7e997550ac4c8758f1b05efd
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>com.aptana.projects.webnature</nature>
 		<nature>org.radrails.rails.core.railsnature</nature>
 		<nature>com.aptana.ruby.core.rubynature</nature>
+=======
+>>>>>>> 57e36b6ec3e302eb7e997550ac4c8758f1b05efd
 	</natures>
 </projectDescription>

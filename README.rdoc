@@ -261,4 +261,8 @@ vendor
   vendor/rails/. This directory is in the load path.
 
 Amel test git
+<<<<<<< HEAD
 neidm basic test commit
+=======
+marko test git 121
+>>>>>>> 57e36b6ec3e302eb7e997550ac4c8758f1b05efd
