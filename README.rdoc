@@ -262,7 +262,12 @@ vendor
 
 Amel test git
 <<<<<<< HEAD
+<<<<<<< HEAD
 neidm basic test commit
 =======
 marko test git 121
 >>>>>>> 57e36b6ec3e302eb7e997550ac4c8758f1b05efd
+=======
+marko test git 121
+Edin test
+>>>>>>> 041782836108ee381ce1896fc197747759adf85a
