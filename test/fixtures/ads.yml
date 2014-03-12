@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ad_id: 1
+  naslov: MyString
+  sadrzaj: MyText
+
+two:
+  ad_id: 1
+  naslov: MyString
+  sadrzaj: MyText
